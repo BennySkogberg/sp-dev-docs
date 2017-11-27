@@ -23,7 +23,7 @@ The workflow platform in SharePoint uses the Windows Workflow Foundation 4 activ
   
     
     
-It is important to note the relationship between workflow activities and SharePointactions. Workflow activities represent the underlying managed objects whose methods drive workflow behaviors. Workflow actions, on the other hand, are wrappers that encapsulate the underlying activities and present them in a user-friendly form in SharePoint Designer. Workflow authors interact with the workflow actions, whereas the workflow execution engine acts on the corresponding activities.
+It is important to note the relationship between workflow activities and SharePoint actions. Workflow activities represent the underlying managed objects whose methods drive workflow behaviors. Workflow actions, on the other hand, are wrappers that encapsulate the underlying activities and present them in a user-friendly form in SharePoint Designer. Workflow authors interact with the workflow actions, whereas the workflow execution engine acts on the corresponding activities.
   
     
     
